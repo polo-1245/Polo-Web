@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <title>Polo Web!</title>
+      <link href="style.css" rel="stylesheet" type="text/css" />
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+      <link rel="icon" href="https://media.discordapp.net/attachments/736619769477726299/772128887680401438/foto.png">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="script.js"></script>
+  </head>
+    <body>
+	  
+        <div class="container">
+	  
+		<!--────────────────Header───────────────-->
+	<header>
+		<a class="logo" href="#home">
+              <img src="https://media.discordapp.net/attachments/736619769477726299/772128887680401438/foto.png" alt="Logo" />
+		</a>
+		<nav>	
+		 <ul class="nav-bar"><div class="bg"></div>
+			<li><a class="nav-link active" href="https://www.polo1245.cf/#home">Inicio</a></li>
+			<li><a class="nav-link" href="https://www.polo1245.cf/#projects">Proyectos</a></li>
+			<li><a class="nav-link" href="https://www.polo1245.cf/#contact">Contacto</a></li>
+			<li><a class="nav-link" href="https://www.polo1245.cf/directos">Directos</a></li>
+		 </ul>
+			
+			<div class="hamburger">
+				<div class="line1"></div>
+            <div class="line2"></div>
+				<div class="line3"></div>
+			</div>
+		</nav>
+	</header>
+	<main>
+		<!--─────────────────Home────────────────-->
+	  <div id="home">
+		 <div class="filter"></div>
+		 <section class="intro">
+		  <h3>Como crear un bot usando Discord.js y que sea 24/7<hr></h3>
+		  <p>Como crear un bot de discord y dejarlo encendido</p>
+		  <p>
+      
+      </p>
+			
+      <p>Empezamos:
+      Para empezar te tienes que registrar en repl.it, uptimerobot.com y tienes que crear una aplicación en https://discord.com/developers/applications , dentro de discord developers y con la aplicación
+       creada tienes que darle en Bot le das en crear y te vas a https://repl.it/@Polo1245Ofi/Dale-a-fork y le das a fork, y una vez que le hayas dado a fork tendrás una copia del proyecto,
+        entonces ahora tienes que crear un archivo .env y dentro pon TOKEN=(token del bot) y después ya tienes el bot ahora solo hace falta que le pongas 24/7 y que lo invites, para invitarlo en la web de discord developers
+         tienes que ir en el apartado deOAuth2 le das dentro de ahí a Bot y abajo seleccionas los permisos que quieres que tenga y una vez hecho eso le das en copy link pones el link en el navegador e invitas al bot al servidor que quieres, y ahora para hacer el bot 24/7 ves a la web uptimerobot.com le das en login logeate o regístrate y le das en dashboard le das en new monitor, HTTPS, (en Friendly Name lo que quieras) y en URL pon la url del proyecto de repl.it ósea el link de arriba de la web esa, y ya ahora solo hace falta que aprendas JavaScript y ya podrás hacerle cosas al bot, yo en ese proyecto te di códigos de regalo xd</p>
+		  <!--────social media links─────-->
+			 
+		  <div class="social-media">
+			  <a href="https://twitter.com/Polo_1245Ofi" target="_blank"><i class='fab fa-twitter'></i></a>
+			  <a href="https://github.com/Polo1245Ofi" target="_blank"><i class='fab fa-github'></i></a>
+			  <a href="https://www.youtube.com/channel/UCH8KoP9Rill6sIHWEfBBWyA" target="_blank"><i class="fab fa-youtube"></i></a>
+        <a href="http://discord.polo1245.cf/" target="_blank"><i class="fab fa-discord"></i></a>
+        <a href="https://www.twitch.tv/ovisli/" target="_blank"><i class="fab fa-twitch"></i></a>
+		    </div>
+			 
+		 </section> 
+	  </div>  
